@@ -2,10 +2,10 @@
 
 ## Personal Information
 
-- **Name:** hafizhahauro
-- **Date of Birth:** 21 08 07
-- **Gender:** (fan)girl
-- **Address:**HYBE ENT 
+- Name: hafizhahauro
+- Date of Birth: 21 08 07
+- Gender: (fan)girl
+- Address:HYBE ENT 
 
 ## Contact Information
 
